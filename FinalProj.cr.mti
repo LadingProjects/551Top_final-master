@@ -1,0 +1,192 @@
+C:/Users/lading/Downloads/551Top_final-master/ROM_B1.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/ROM_B1.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ROM_B1
+
+Top level modules:
+	ROM_B1
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/ROM_B2.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/ROM_B2.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ROM_B2
+
+Top level modules:
+	ROM_B2
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module dualPort1536x16
+
+Top level modules:
+	dualPort1536x16
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module dualPort1024x16
+
+Top level modules:
+	dualPort1024x16
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/ADC128S.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/ADC128S.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ADC128S
+
+Top level modules:
+	ADC128S
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module A2D_intf
+
+Top level modules:
+	A2D_intf
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Equalizer_tb
+
+Top level modules:
+	Equalizer_tb
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/ROM_B3.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/ROM_B3.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ROM_B3
+
+Top level modules:
+	ROM_B3
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/HPfilt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/HPfilt.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module HPfilt
+
+Top level modules:
+	HPfilt
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module LowFQueues
+
+Top level modules:
+	LowFQueues
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module SPI_mstr
+
+Top level modules:
+	SPI_mstr
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/Equalizer.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/Equalizer.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module Equalizer
+
+Top level modules:
+	Equalizer
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/ROM_HP.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/ROM_HP.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ROM_HP
+
+Top level modules:
+	ROM_HP
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/B1filt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/B1filt.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module B1filt
+
+Top level modules:
+	B1filt
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/LPfilt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/LPfilt.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module LPfilt
+
+Top level modules:
+	LPfilt
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/reset_synch.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/reset_synch.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module reset_synch
+
+Top level modules:
+	reset_synch
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/B3filt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/B3filt.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module B3filt
+
+Top level modules:
+	B3filt
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/bandScale.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/bandScale.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module bandScale
+
+Top level modules:
+	bandScale
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/LED.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/LED.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module LED
+
+Top level modules:
+	LED
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/ROM_LP.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/ROM_LP.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module ROM_LP
+
+Top level modules:
+	ROM_LP
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/codec_intf.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/codec_intf.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module codec_intf
+
+Top level modules:
+	codec_intf
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module button_rise_edge
+
+Top level modules:
+	button_rise_edge
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module slide_intf
+** Warning: C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv(80): (vlog-2182) 'cnt' might be read before written in always_comb or always @* block.
+
+
+Top level modules:
+	slide_intf
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module SPI_ADC128S
+
+Top level modules:
+	SPI_ADC128S
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/CS4272.v {1 {vlog -work work -vopt -stats=none C:/Users/lading/Downloads/551Top_final-master/CS4272.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module CS4272
+
+Top level modules:
+	CS4272
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/B2filt.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/B2filt.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module B2filt
+
+Top level modules:
+	B2filt
+
+} {} {}} C:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module EQ_Engine
+
+Top level modules:
+	EQ_Engine
+
+} {} {}}

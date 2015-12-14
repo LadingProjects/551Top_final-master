@@ -1,0 +1,671 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vA2D_intf
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+!i10b 1
+!s100 _=fVb1l_[OAOG2?HDKMzL0
+II9W7gEFoP9P;HeF]eU7[N0
+!s105 A2D_intf_sv_unit
+S1
+Z2 dC:/Users/lading/Downloads/551Top_final-master
+w1450070391
+8C:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv
+FC:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv
+L0 1
+Z3 OE;L;10.3c;59
+!s108 1450070407.704000
+!s107 C:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/A2D_intf.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a2@d_intf
+vADC128S
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZBWWXFI^AinRHzkjdeXRG2
+ImZR3nD2n:KV:[[:DlSgXb3
+!s105 ADC128S_sv_unit
+S1
+R2
+Z5 w1450032674
+8C:/Users/lading/Downloads/551Top_final-master/ADC128S.sv
+FC:/Users/lading/Downloads/551Top_final-master/ADC128S.sv
+L0 1
+R3
+!s108 1450062874.183000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ADC128S.sv|
+!i113 0
+R4
+n@a@d@c128@s
+vB1filt
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 _[Nn@eGTX=U0zi=ffdLR33
+Ia0fc0`J`fnSCb7_ijV?ST3
+!s105 B1filt_sv_unit
+S1
+R2
+Z6 w1450069044
+8C:/Users/lading/Downloads/551Top_final-master/B1filt.sv
+FC:/Users/lading/Downloads/551Top_final-master/B1filt.sv
+L0 1
+R3
+!s108 1450069047.416000
+!s107 C:/Users/lading/Downloads/551Top_final-master/B1filt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/B1filt.sv|
+!i113 0
+R4
+n@b1filt
+vB2filt
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 b>3o3]4DWMT4:3=K]<i5H0
+ITamAQiJE64gFhcU?Dem?l0
+!s105 B2filt_sv_unit
+S1
+R2
+w1450069011
+8C:/Users/lading/Downloads/551Top_final-master/B2filt.sv
+FC:/Users/lading/Downloads/551Top_final-master/B2filt.sv
+L0 1
+R3
+!s108 1450069047.588000
+!s107 C:/Users/lading/Downloads/551Top_final-master/B2filt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/B2filt.sv|
+!i113 0
+R4
+n@b2filt
+vB3filt
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 KH@:elWmJB>?8KlGSJj]83
+I2;P<M7`ZX>QU5IaILnW5I0
+!s105 B3filt_sv_unit
+S1
+R2
+R6
+8C:/Users/lading/Downloads/551Top_final-master/B3filt.sv
+FC:/Users/lading/Downloads/551Top_final-master/B3filt.sv
+L0 1
+R3
+!s108 1450069047.744000
+!s107 C:/Users/lading/Downloads/551Top_final-master/B3filt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/B3filt.sv|
+!i113 0
+R4
+n@b3filt
+vbandScale
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2`Z5Y0zJAU;2W0V2[_8hH2
+If0VF]gPalR4`j7=TL:9Xk2
+!s105 bandScale_sv_unit
+S1
+R2
+w1450046713
+8C:/Users/lading/Downloads/551Top_final-master/bandScale.sv
+FC:/Users/lading/Downloads/551Top_final-master/bandScale.sv
+L0 1
+R3
+!s108 1450062874.995000
+!s107 C:/Users/lading/Downloads/551Top_final-master/bandScale.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/bandScale.sv|
+!i113 0
+R4
+nband@scale
+vbutton_rise_edge
+!s110 1450062878
+!i10b 1
+!s100 7OSK;HHlM;l=h5:@kjzWY0
+Iz>`i=S]AHSG[hGWhLd=zZ1
+R1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v
+FC:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1450062878.052000
+!s107 C:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/button_rise_edge.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vcodec_intf
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PCd_8;3_S44^zgX3Fn;?:0
+IGoHoH[P9528];Qe9cVkzi2
+!s105 codec_intf_sv_unit
+S1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/codec_intf.sv
+FC:/Users/lading/Downloads/551Top_final-master/codec_intf.sv
+L0 1
+R3
+!s108 1450062875.135000
+!s107 C:/Users/lading/Downloads/551Top_final-master/codec_intf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/codec_intf.sv|
+!i113 0
+R4
+vCS4272
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 8]NFB6bc]KdTQD6:Z946`3
+I;T7;CA:`JGL9Zh^nJCWZR3
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/CS4272.v
+FC:/Users/lading/Downloads/551Top_final-master/CS4272.v
+Z8 L0 11
+R3
+!s108 1450062878.161000
+!s107 C:/Users/lading/Downloads/551Top_final-master/CS4272.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/CS4272.v|
+!i113 0
+R7
+n@c@s4272
+vdualPort1024x16
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 EgkPHJ7mB8aV?YEj8H=Z@2
+Ijmd<VKNkfS]UIVVDKY;;?2
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v
+FC:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v
+L0 1
+R3
+!s108 1450062878.286000
+!s107 C:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/dualPort1024x16.v|
+!i113 0
+R7
+ndual@port1024x16
+vdualPort1536x16
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 H;o^]li4ZFJBeFSJ7f^g=0
+IMB]j9e`g3Xnz1;>Ae]Uhe3
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v
+FC:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v
+L0 1
+R3
+!s108 1450062878.754000
+!s107 C:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/dualPort1536x16.v|
+!i113 0
+R7
+ndual@port1536x16
+vEQ_Engine
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^MiCdO789LAbO79HWFj[71
+ISbg6B4RBobnAJC9;cEMM32
+!s105 EQ_Engine_sv_unit
+S1
+R2
+w1450068483
+8C:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv
+FC:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv
+L0 1
+R3
+!s108 1450068546.358000
+!s107 C:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/EQ_Engine.sv|
+!i113 0
+R4
+n@e@q_@engine
+vEqualizer
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 IOR4n@>N9>Om0c43YXC`n3
+IOXh=Gh<kZ[V`IWKiHDRg51
+!s105 Equalizer_sv_unit
+S1
+R2
+w1450065871
+8C:/Users/lading/Downloads/551Top_final-master/Equalizer.sv
+FC:/Users/lading/Downloads/551Top_final-master/Equalizer.sv
+L0 5
+R3
+!s108 1450065875.113000
+!s107 C:/Users/lading/Downloads/551Top_final-master/Equalizer.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/Equalizer.sv|
+!i113 0
+R4
+n@equalizer
+vEqualizer_tb
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 16NLRc]`[aB2Ukb[FMgYg0
+IF?naYFfg1ZBS1AD<>z?gd1
+!s105 Equalizer_tb_sv_unit
+S1
+R2
+w1450054768
+8C:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv
+FC:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv
+L0 2
+R3
+!s108 1450062876.835000
+!s107 C:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/Equalizer_tb.sv|
+!i113 0
+R4
+n@equalizer_tb
+vHiFQueues
+R0
+R1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 [efHQD]:ZddHjlgFiEamg0
+IG7B`f[IiV7]i:eSkh`o8:2
+!s105 HiFQueues_sv_unit
+S1
+Z9 dC:/Users/Nate/Desktop/551Top_final
+w1450037863
+8C:/Users/Nate/Desktop/551Top_final/HiFQueues.sv
+FC:/Users/Nate/Desktop/551Top_final/HiFQueues.sv
+L0 1
+Z10 OP;L;10.4a;61
+!s108 1450037903.000000
+!s107 C:/Users/Nate/Desktop/551Top_final/HiFQueues.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Nate/Desktop/551Top_final/HiFQueues.sv|
+!s101 -O0
+!i113 1
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@hi@f@queues
+vHoff_SPI
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 95@Pa7RD8ig_<U;0f22c_0
+I;=F_IINZBWjf;Od<XVRCP0
+!s105 Hoff_SPI_sv_unit
+S1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/Hoff_SPI.sv
+FC:/Users/lading/Downloads/551Top_final-master/Hoff_SPI.sv
+L0 9
+R3
+!s108 1450062879.612000
+!s107 C:/Users/lading/Downloads/551Top_final-master/Hoff_SPI.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/Hoff_SPI.sv|
+!i113 0
+R4
+n@hoff_@s@p@i
+vHPfilt
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 [dY4noT7PYj3=B4UP5lbf2
+IF07J8>olRX1QZUdUiSC_d3
+!s105 HPfilt_sv_unit
+S1
+R2
+R6
+8C:/Users/lading/Downloads/551Top_final-master/HPfilt.sv
+FC:/Users/lading/Downloads/551Top_final-master/HPfilt.sv
+L0 1
+R3
+!s108 1450069047.868000
+!s107 C:/Users/lading/Downloads/551Top_final-master/HPfilt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/HPfilt.sv|
+!i113 0
+R4
+n@h@pfilt
+vLED
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Wd?lbJUF::4DN0n5KooBJ2
+IVFTG`c8@P8bS6VVZBmj6g3
+!s105 LED_sv_unit
+S1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/LED.sv
+FC:/Users/lading/Downloads/551Top_final-master/LED.sv
+L0 1
+R3
+!s108 1450062877.116000
+!s107 C:/Users/lading/Downloads/551Top_final-master/LED.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/LED.sv|
+!i113 0
+R4
+n@l@e@d
+vLowFQueues
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I=]dG2Q0mgC9:EY3@OQXW2
+IR^No:8:39_i2Q<1SoJ:AY0
+!s105 LowFQueues_sv_unit
+S1
+R2
+w1450043987
+8C:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv
+FC:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv
+L0 1
+R3
+!s108 1450062877.319000
+!s107 C:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/LowFQueues.sv|
+!i113 0
+R4
+n@low@f@queues
+vLPfilt
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 [QYo5<KQge97HR<ZYT4;S2
+IAgaAzENOP7^<Ko6DjDQE71
+!s105 LPfilt_sv_unit
+S1
+R2
+R6
+8C:/Users/lading/Downloads/551Top_final-master/LPfilt.sv
+FC:/Users/lading/Downloads/551Top_final-master/LPfilt.sv
+L0 1
+R3
+!s108 1450069047.993000
+!s107 C:/Users/lading/Downloads/551Top_final-master/LPfilt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/LPfilt.sv|
+!i113 0
+R4
+n@l@pfilt
+vNewFQ
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1450024282
+!i10b 1
+!s100 4lbNSjmdQe4G<]KY=FJ_h0
+I;B?W^?n_jJXShDa?YjY_a2
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 NewFQ_sv_unit
+S1
+R9
+w1450024269
+8C:/Users/Nate/Desktop/551Top_final/NewFQ.sv
+FC:/Users/Nate/Desktop/551Top_final/NewFQ.sv
+L0 1
+R10
+r1
+!s85 0
+31
+!s108 1450024282.000000
+!s107 C:/Users/Nate/Desktop/551Top_final/NewFQ.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Nate/Desktop/551Top_final/NewFQ.sv|
+!s101 -O0
+!i113 1
+R11
+n@new@f@q
+vreset_synch
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1ge9mjfj5:f07Ub1FGdK?0
+IR>oU<zcI7RHY;7M97^m<_1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/reset_synch.v
+FC:/Users/lading/Downloads/551Top_final-master/reset_synch.v
+L0 1
+R3
+!s108 1450062878.879000
+!s107 C:/Users/lading/Downloads/551Top_final-master/reset_synch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/reset_synch.v|
+!i113 0
+R7
+vROM_B1
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 7kWZAPVWeiDHcgJNkM1]R2
+I8A29C[TWSm3KY2HMLheC42
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/ROM_B1.v
+FC:/Users/lading/Downloads/551Top_final-master/ROM_B1.v
+L0 1
+R3
+!s108 1450062878.988000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ROM_B1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ROM_B1.v|
+!i113 0
+R7
+n@r@o@m_@b1
+vROM_B2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 49AVDUoT1i0bibAz<<>Je3
+IUL`Ng3:hR:DhZcQamFYfY3
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/ROM_B2.v
+FC:/Users/lading/Downloads/551Top_final-master/ROM_B2.v
+L0 1
+R3
+!s108 1450062879.129000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ROM_B2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ROM_B2.v|
+!i113 0
+R7
+n@r@o@m_@b2
+vROM_B3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 CIF_6E>Lk0nEFeB6V8B730
+Il54AVG5:OkLmhjl0W5D3H2
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/ROM_B3.v
+FC:/Users/lading/Downloads/551Top_final-master/ROM_B3.v
+L0 1
+R3
+!s108 1450062879.253000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ROM_B3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ROM_B3.v|
+!i113 0
+R7
+n@r@o@m_@b3
+vROM_HP
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XG7O0ofO[Az;oITQ@V1>k2
+I]_mmDegYi1BX?HDf6IYn21
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/ROM_HP.v
+FC:/Users/lading/Downloads/551Top_final-master/ROM_HP.v
+L0 1
+R3
+!s108 1450062879.363000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ROM_HP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ROM_HP.v|
+!i113 0
+R7
+n@r@o@m_@h@p
+vROM_LP
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 UPX2H1?LRoN05]00V8<^g0
+IzoEC^JVB0aXd?PO47NH>_1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/ROM_LP.v
+FC:/Users/lading/Downloads/551Top_final-master/ROM_LP.v
+L0 1
+R3
+!s108 1450062879.487000
+!s107 C:/Users/lading/Downloads/551Top_final-master/ROM_LP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/lading/Downloads/551Top_final-master/ROM_LP.v|
+!i113 0
+R7
+n@r@o@m_@l@p
+vslide_intf
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z:liPfm1NleTEGXR0WQ4n0
+Ig[kFo<@B>MlIloKd=ilLD0
+!s105 slide_intf_sv_unit
+S1
+R2
+w1450067144
+8C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv
+FC:/Users/lading/Downloads/551Top_final-master/slide_intf.sv
+L0 1
+R3
+!s108 1450067147.904000
+!s107 C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/slide_intf.sv|
+!i113 0
+R4
+vSPI_ADC128S
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 FMj[4W2=9oUfTJcKEmN2N0
+I7aYS[1diD6]ifUQCz5LnZ1
+!s105 SPI_ADC128S_sv_unit
+S1
+R2
+R5
+8C:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv
+FC:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv
+L0 1
+R3
+!s108 1450062877.740000
+!s107 C:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/SPI_ADC128S.sv|
+!i113 0
+R4
+n@s@p@i_@a@d@c128@s
+vSPI_mstr
+R0
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 DScdalgbfj7U?eHfCWAWc1
+Id34EbBNoZ1`=2dF[BQDZe3
+!s105 SPI_mstr_sv_unit
+S1
+R2
+w1450070536
+8C:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv
+FC:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv
+R8
+R3
+!s108 1450070540.374000
+!s107 C:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lading/Downloads/551Top_final-master/SPI_mstr.sv|
+!i113 0
+R4
+n@s@p@i_mstr
