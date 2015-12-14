@@ -17,28 +17,28 @@ always @(posedge clk, negedge rst_n) begin
 		cnt <= cnt + 1;
 end
 
-always @(posedge cnt[25], negedge rst_n) begin
+always @(posedge cnt[25], negedge rst_n) begin //Controls right side of LEDs
 	if(!rst_n)
-		LED[3:0] <= 4'h0;
+		LED[3:0] <= 4'h0; //Turn all of on reset
 	else if(~&rht_out[15:4])
 		LED[3:0] <= 4'b1100;
 	else if(~&rht_out[15:8])
 		LED[3:0] <= 4'b1110;
 	else if(~&rht_out[15:12])
-		LED[3:0] <= 4'b1111;
+		LED[3:0] <= 4'b1111; //Turn all on with high signal
 	else
 		LED[3:0] <= 4'b1000;
 end
 
 always @(posedge cnt[25], negedge rst_n) begin
 	if(!rst_n)
-		LED[7:4] <= 4'h0;
+		LED[7:4] <= 4'h0; //Turn all off with reset
 	else if(~&lft_out[15:4])
 		LED[7:4] <= 4'b0011;
 	else if(~&lft_out[15:8])
 		LED[7:4] <= 4'b0111;
 	else if(~&lft_out[15:12])
-		LED[7:4] <= 4'b1111;
+		LED[7:4] <= 4'b1111;  //Turn all on with high signal
 	else
 		LED[7:4] <= 4'b0001;
 end
