@@ -15,7 +15,7 @@ localparam IDLE = 1'b0;
 localparam CNV = 1'b1;
 
 //Potentiometer outputs
-always @(posedge clk) begin
+always @(posedge clk) begin  //Write the appropriate data to each POT
  if(cnt==3'b000 & cnv_cmplt)
   POT_LP <= res;
  else
@@ -58,7 +58,7 @@ always @(posedge clk) begin
 end
 
 //Next state logic
-always_ff @(posedge clk, negedge rst_n)
+always_ff @(posedge clk, negedge rst_n) //Reset the SM
  if(!rst_n)
   state <= IDLE;
  else
@@ -71,18 +71,18 @@ always_ff @(posedge clk, negedge rst_n)
   
 //Implement state machine
 always @(*) begin
-	nxtstate = IDLE;
+	nxtstate = IDLE; 
 	strt_cnv = 1'b0;
 	case(state)
-		IDLE:  begin
+		IDLE:  begin  //Default state, only here for one clock cycle
 			strt_cnv = 1'b1;
 			nxtstate = CNV;	
-			if(cnt == 3'b100)
+			if(cnt == 3'b100)  //Skips from 4 to 7 for file input.
 				cnt = 3'b111;
 		    else
 				cnt = cnt + 1;		
 		end
-		CNV: if(!cnv_cmplt) begin
+		CNV: if(!cnv_cmplt) begin  //Waits in this state until A2D sends back information
 			nxtstate = CNV;			
 		end else begin
 			strt_cnv = 1'b0;
